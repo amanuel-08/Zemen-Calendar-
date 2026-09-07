@@ -1,0 +1,6 @@
+{
+  "name": "Zemen",
+  "description": "Modern Ethiopian Calendar with Ethiopian-Gregorian conversion, holidays, events, and reminders.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
